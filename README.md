@@ -34,4 +34,3 @@ Let’s connect on linkedin.com/in/evans-yeboah-33b81954
 
 ---
 
-Feel free to fork, star, or suggest improvements. Feedback is welcome!
